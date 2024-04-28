@@ -8,7 +8,9 @@ Implementation of a deep learning model using TensorFlow and Keras.
 Evaluation of model performance with accuracy metrics.
 Requirements
 
-## To run this notebook, you will need the following libraries:
+#### The code for this project was written and run in Google Colab.
+
+## To run this notebook locally, you will need the following libraries:
 Pandas
 NumPy
 TensorFlow
